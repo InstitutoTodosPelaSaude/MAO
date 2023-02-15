@@ -1,5 +1,5 @@
 ---
-title: "Painel de monitoramento - São Caetano do Sul"
+title: "Painel de monitoramento - Manaus"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
